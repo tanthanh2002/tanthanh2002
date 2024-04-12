@@ -1,4 +1,4 @@
-### Hi there 👋
+# "There is no best, only what suits best."
 
 <!--
 **tanthanh2002/tanthanh2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
